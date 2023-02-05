@@ -78,10 +78,10 @@ system("pause");
 exit(1);
 break;
 case 1:
-//cadastrar_musica();
+cadastrar_musica();
 break;
 case 2:
-//listar_musica();
+listar_musica();
 break;
 if((op<0)||(op>2))
 {
